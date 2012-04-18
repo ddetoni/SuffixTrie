@@ -1,0 +1,17 @@
+Trabalho Estrutuda de Dados 2 - Maior Substring em comum usando Tries de Sufixo
+
+Nome: Douglas Detoni
+
+Compilação:
+Para compilar o código fonte é necessário digitar as linhas de comando abaixo:
+	gcc -c trie.c
+	gcc -o trie trie.o
+
+Execução:
+A execução é feita com a linha de comando abaixo:
+	./trie < [nome_do_arquivo]
+
+O arquivo deve conter duas string, uma em cada linha.
+
+Bugs:
+Foram testados arquivos de entrada de até 6000 caracteres por string. Não foram encontrados bugs nesses testes.
