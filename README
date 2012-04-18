@@ -11,7 +11,7 @@ Execução:
 A execução é feita com a linha de comando abaixo:
 	./trie < [nome_do_arquivo]
 
-O arquivo deve conter duas string, uma em cada linha.
+O arquivo deve conter duas strings, uma em cada linha.
 
 Bugs:
 Foram testados arquivos de entrada de até 6000 caracteres por string. Não foram encontrados bugs nesses testes.
